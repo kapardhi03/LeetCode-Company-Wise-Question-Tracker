@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.DS_Store
+
+# Streamlit specific
+.streamlit/
+
+# Project specific
+progress.json
